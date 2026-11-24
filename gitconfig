@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lena.wittemann@web.de
+	name = Lena Wittemann lena.wittemann@web.de
